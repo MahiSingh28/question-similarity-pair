@@ -1,4 +1,4 @@
-Dataset :- https://drive.google.com/drive/folders/1uduUdFVKN-dstLMf9NcrSQasd67Mkqg5?usp=sharing
+Dataset :- https://drive.google.com/drive/folders/1uduUdFVKN-dstLMf9NcrSQasd67Mkqg5?usp=sharing                                                         
 🧠 Question Similarity Checker
 
 A lightweight and interactive web app to compare the **semantic similarity between two questions** using Sentence-BERT (SBERT). It highlights how deep learning models can understand meaning beyond exact words — ideal for paraphrase detection, duplicate question checking, and content deduplication.
